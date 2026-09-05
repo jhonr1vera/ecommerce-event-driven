@@ -1,0 +1,3 @@
+# Payment Service es un microservicio stateless según el guideline.
+# No requiere una base de datos local dedicada, ya que procesa el evento 'inventory.reserved',
+# interactúa con la pasarela de pagos simulada (Stripe/PayPal Mock) y emite 'payment.succeeded' o 'payment.failed'.
