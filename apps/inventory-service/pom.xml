@@ -11,8 +11,8 @@
 	<groupId>com.ecommerce</groupId>
 	<artifactId>inventory-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>inventory-service</name>
+	<description>Inventory Service for E-Commerce Event Driven System</description>
 	<url/>
 	<licenses>
 		<license/>

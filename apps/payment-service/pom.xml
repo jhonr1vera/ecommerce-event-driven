@@ -11,8 +11,8 @@
 	<groupId>com.ecommerce</groupId>
 	<artifactId>payment-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>payment-service</name>
+	<description>Payment Service for E-Commerce Event Driven System</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -11,8 +11,8 @@
 	<groupId>com.ecommerce</groupId>
 	<artifactId>order-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>order-service</name>
+	<description>Order Service for E-Commerce Event Driven System</description>
 	<url/>
 	<licenses>
 		<license/>
